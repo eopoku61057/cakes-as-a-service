@@ -1,0 +1,6 @@
+namespace Cakeservice.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
